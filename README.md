@@ -2,7 +2,7 @@
 
 Um programa em C que utiliza a estratégia de backtracking para encontrar uma chave em um mapa 2D, seguindo regras de movimento específicas.
 
-LINK DO VÍDEO: https://youtu.be/OoJBP0tEjJE
+**LINK DO VÍDEO:** https://youtu.be/OoJBP0tEjJE
 
 -----
 
