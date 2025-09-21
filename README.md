@@ -23,6 +23,9 @@ O programa lê as dimensões do mapa, o próprio mapa e as coordenadas de iníci
 | Bruna Amorim Maia | 10431883 |
 | Rafael Araujo Cabral Moreira | 10441919 |
 
+Turma 04N
+
+Prof. Dr. Charles Boulhosa Rodamilans
 -----
 
 ## ⚙️ Compilação e Execução
